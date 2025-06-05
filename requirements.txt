@@ -4,3 +4,4 @@ numpy
 scikit-learn
 sqlalchemy
 mysql-connector-python
+gunicorn
